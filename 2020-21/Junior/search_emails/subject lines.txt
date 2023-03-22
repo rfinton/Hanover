@@ -1,0 +1,11 @@
+1a: Discover Hanover College today
+1b: Your Hanover degree knows NO limits
+
+2a: Are you the best version of yourself, ##prefname##?
+2b: Find a major that fits you
+
+3a: Scholarships at Hanover College
+3b: Find out what's waiting for you, ##prefname##
+
+4a: Activities at Hanover College
+4b: Keep your options open

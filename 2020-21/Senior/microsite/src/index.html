@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <title>Hanover College | You belong</title>
+    <script>
+      var devMode = false;
+      
+      if(!devMode) secureSite();
+      
+      function secureSite() {
+        if(location.protocol != 'https:') {
+          var queryStr = location.search.replace(/&*cookieCheck.+/i, "");
+          location = 'https://##subdomain##.##domain##/##purl##/landingpage.html' + queryStr;
+        }
+      }
+    </script>
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="https://www.hanover.edu/favicon-32x32.png" />
+    <link rel="apple-touch-icon" href="https://www.hanover.edu/favicon-32x32.png" />
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" />
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;400;600;700&display=swap" rel="stylesheet" />
+    <!-- Main css file -->
+    <link rel="stylesheet" href="/css/index.min.css" />
+  </head>
+
+  <body>
+    <!-- Start your project here-->
+    <div class="container-fluid">
+      <header>
+        <img src="https://s3.amazonaws.com/rsrc.hanover/img/hanover-horizontal-white.png" alt="Hanover College">
+      </header>
+
+      <main>
+        <section class="content">
+          <div class="greeting">Hi, ##prefname##!</div>
+          <p>If you’re looking for a place to belong with room to grow, Hanover College is YOUR place to be. We are dedicated to helping students have a transformative college experience.</p>
+          <p>As you take the next step towards your future, we want to know what is important to you.<br>(Click all that apply.)</p>
+        </section>
+
+        <form method="post">
+
+          <div class="choices">
+
+            <!-- Choice 1 : Begin -->
+          <div class="choice odd d-flex flex-column" id="academics">
+
+            <label for="checkbox_1">
+              <input type="checkbox" class="d-none" id="checkbox_1" name="checkbox_1" value="Academics">
+              <div class="row">
+                <div class="col-4"></div>
+                <div class="col-8">
+                  At Hanover, you're in charge of your own path. Change your mind along the way as your interests evolve.
+                </div>
+              </div>
+            </label>
+
+            <label for="checkbox_1">
+              <div class="row">
+                <div class="col-8">
+                  <p>It's important for me to explore my passions through a wide variety of <strong>academic</strong> opportunities.</p>
+                </div>
+                <div class="col-4"></div>
+              </div>
+            </label>
+
+          </div>
+          <!-- Choice 1: End -->
+
+          <!-- Choice 2 : Begin -->
+          <div class="choice even d-flex flex-column" id="internship">
+
+            <label for="checkbox_2">
+              <input type="checkbox" class="d-none" id="checkbox_2" name="checkbox_2" value="Internships">
+              <div class="row">
+                <div class="col-4"></div>
+                <div class="col-8">
+                  Hanover connects its students with businesses and organizations that are looking for talent &mdash; often partnering with our vast alumni network!
+                </div>
+              </div>
+            </label>
+
+            <label for="checkbox_2">
+              <div class="row">
+                <div class="col-8">
+                  <p>I want to take advantage of <strong>internship</strong> opportunities.</p>
+                </div>
+                <div class="col-4"></div>
+              </div>
+            </label>
+
+          </div>
+          <!-- Choice 2: End -->
+
+          <!-- Choice 3 : Begin -->
+          <div class="choice odd d-flex flex-column" id="financial-aid">
+
+            <label for="checkbox_3">
+              <input type="checkbox" class="d-none" id="checkbox_3" name="checkbox_3" value="Financial Aid">
+              <div class="row">
+                <div class="col-4"></div>
+                <div class="col-8">
+                  Hanover offers several different types of aid to 99&#37; of its students, starting with an automatic review of renewable merit scholarships ranging from $5,000 - $25,000.
+                </div>
+              </div>
+            </label>
+
+            <label for="checkbox_3">
+              <div class="row">
+                <div class="col-8">
+                  <p>I want to learn more about how to make a private college an <strong>affordable</strong> option.</p>
+                </div>
+                <div class="col-4"></div>
+              </div>
+            </label>
+
+          </div>
+          <!-- Choice 3: End -->
+
+          <!-- Choice 4 : Begin -->
+          <div class="choice even d-flex flex-column" id="athletics">
+
+            <label for="checkbox_4">
+              <input type="checkbox" class="d-none" id="checkbox_4" name="checkbox_4" value="Athletics">
+              <div class="row">
+                <div class="col-4"></div>
+                <div class="col-8">
+                  Through NCAA division III varsity, intramural, and/or club sports, there are plenty of opportunities to stay active.
+                </div>
+              </div>
+            </label>
+
+            <label for="checkbox_4">
+              <div class="row">
+                <div class="col-8">
+                  <p><strong>Sports</strong> and <strong>intramural</strong> activities are important to me.</p>
+                </div>
+                <div class="col-4"></div>
+              </div>
+            </label>
+
+          </div>
+          <!-- Choice 4: End -->
+
+          <!-- Choice 5 : Begin -->
+          <div class="choice odd d-flex flex-column" id="clubs">
+
+            <label for="checkbox_5">
+              <input type="checkbox" class="d-none" id="checkbox_5" name="checkbox_5" value="Clubs-Organizations">
+              <div class="row">
+                <div class="col-4"></div>
+                <div class="col-8">
+                  Hanover's student body is active in organizations like College Mentors for Kids, Best Buddies, Dance Marathon groups, and 8 Greek chapters, to name a few.
+                </div>
+              </div>
+            </label>
+
+            <label for="checkbox_5">
+              <div class="row">
+                <div class="col-8">
+                  <p>I need to be able to participate in <strong>organizations</strong> and activities that better my community as a whole.</p>
+                </div>
+                <div class="col-4"></div>
+              </div>
+            </label>
+
+          </div>
+          <!-- Choice 5: End -->
+
+          <!-- Choice 6 : Begin -->
+          <div class="choice even d-flex flex-column" id="location">
+
+            <label for="checkbox_6">
+              <input type="checkbox" class="d-none" id="checkbox_6" name="checkbox_6" value="Location">
+              <div class="row">
+                <div class="col-4"></div>
+                <div class="col-8">
+                  <p>Take advantage of surrounding cities, catch a traveling Broadway show, or go see a concert &mdash; <span>it's all in your backyard at Hanover!</span></p>
+                </div>
+              </div>
+            </label>
+
+            <label for="checkbox_6">
+              <div class="row">
+                <div class="col-8">
+                  <p><strong>Exploring</strong> surrounding cities and all of their offerings is important to me.</p>
+                </div>
+                <div class="col-4"></div>
+              </div>
+            </label>
+
+          </div>
+          <!-- Choice 6: End -->
+
+          <!-- Choice 7: Begin -->
+          <div class="choice odd d-flex flex-column" id="faculty">
+
+            <label for="checkbox_7">
+              <input type="checkbox" class="d-none" id="checkbox_7" name="checkbox_7" value="Faculty">
+              <div class="row">
+                <div class="col-4"></div>
+                <div class="col-8">
+                  It's all about personal relationships. From gatherings hosted by the president to studying for finals at a class BBQ, Hanover is like your home away from home.
+                </div>
+              </div>
+            </label>
+
+            <label for="checkbox_7">
+              <div class="row">
+                <div class="col-8">
+                  <p>Having <strong>faculty</strong> members who are eager to share their experiences with me is important.</p>
+                </div>
+                <div class="col-4"></div>
+              </div>
+            </label>
+
+          </div>
+          <!-- Choice 7: End -->
+
+          <!-- Choice 8: Begin -->
+          <div class="choice even d-flex flex-column" id="career">
+
+            <label for="checkbox_8">
+              <input type="checkbox" class="d-none" id="checkbox_8" name="checkbox_8" value="Career Preparation">
+              <div class="row">
+                <div class="col-4"></div>
+                <div class="col-8">
+                  Hanover's career preparation matched with a solid liberal arts education helps you find immediate success. 99&#37; of graduates are employed or in graduate school within 7 months of graduation.
+                </div>
+              </div>
+            </label>
+
+            <label for="checkbox_8">
+              <div class="row">
+                <div class="col-8">
+                  <p>Being prepared for my future <strong>career</strong> and beyond is important to me.</p>
+                </div>
+                <div class="col-4"></div>
+              </div>
+            </label>
+
+          </div>
+          <!-- Choice 8: End -->
+          </div>
+          
+          <section class="submit-btns d-flex justify-content-center align-items-center flex-column">
+            <input type="text" value="" name="submitaction" class="d-none" aria-hidden="true" />
+            <button type="submit" value="submit" name="submitaction" class="btn btn-lg btn-primary">
+              Submit My Responses
+            </button>
+
+            <button type="submit" value="apply" name="submitaction" class="btn btn-lg btn-primary">
+              Apply
+            </button>
+          </section>
+
+        </form>
+      </main>
+
+      <footer>
+        <img src="https://s3.amazonaws.com/rsrc.hanover/img/hanover-horizontal_PREFERRED.svg" alt="Hanover College">
+        <span class="d-inline-block">Office of Admission &bull; 517 Ball Drive &bull; Hanover, IN 47243 &bull; 800.213.2178</span>
+      </footer>
+    </div>
+    <!-- End your project here-->
+
+  </body>
+
+  <!-- Main js file -->
+  <script type="text/javascript" src="https://s3.amazonaws.com/rsrc.hanover/js/index.min.js"></script>
+  <script type="text/javascript" src="https://tracking.mdl.io/track.js?dom=hanover20&id=29264_1_637338692839788423&aid=29264&oid=8&pid=##purl##"></script>
+  <!-- Custom scripts -->
+  <script type="text/javascript"></script>
+
+</html>

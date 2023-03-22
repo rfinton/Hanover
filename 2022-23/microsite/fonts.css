@@ -1,0 +1,29 @@
+@font-face {
+	font-family: 'Avenir Light';
+	src: url('https://s3.amazonaws.com/rsrc.hanover/2022-23/sr/fonts/Avenir-Light.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Avenir Heavy';
+	src: url('https://s3.amazonaws.com/rsrc.hanover/2022-23/sr/fonts/Avenir-Heavy.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Avenir Book';
+	src: url('https://s3.amazonaws.com/rsrc.hanover/2022-23/sr/fonts/Avenir-Book.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Avenir Medium';
+	src: url('https://s3.amazonaws.com/rsrc.hanover/2022-23/sr/fonts/Avenir-Medium.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Avenir Roman';
+	src: url('https://s3.amazonaws.com/rsrc.hanover/2022-23/sr/fonts/Avenir-Roman.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Avenir Black';
+	src: url('https://s3.amazonaws.com/rsrc.hanover/2022-23/sr/fonts/Avenir-Roman.ttf') format('truetype');
+}

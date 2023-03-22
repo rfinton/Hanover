@@ -1,0 +1,134 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: EF_Hanover_LP+TYP_mobile_2020.ai
+Color Mode: RGB color
+Color Profile: sRGB IEC61966-2.1
+Ruler Units: pixels
+Artboard Dimensions: 480 px x 1463.6932 px
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+PANTONE 108 C (Lab)
+PANTONE 116 C (Lab)
+PANTONE 123 C (Lab)
+PANTONE 138 C (Lab)
+PANTONE 158 C (Lab)
+PANTONE 186 C (Lab)
+PANTONE 200 C (Lab)
+PANTONE 2718 C (Lab)
+PANTONE 280 C (Lab)
+PANTONE 288 C (Lab)
+PANTONE 289 C (Lab)
+PANTONE 7421 C (Lab)
+PANTONE 7680 C (Lab)
+PANTONE Green C (Lab)
+White (CMYK)
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:
+Montserrat ExtraBold (Adobe Fonts)
+
+-----------------------------------------------------------------------------
+Fonts:
+Arial (OTF)
+Avenir Light (TrueType)
+Avenir Light Oblique (TrueType)
+Avenir Roman (TrueType)
+Avenir Medium (TrueType)
+Avenir Black (TrueType)
+Avenir Heavy (TrueType)
+Myriad Pro (OTF)
+Montserrat Light (OTF)
+Helvetica Neue (TrueType)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+/Users/gretchenlong/Dropbox/A. INPROCESS (macbook-pro.lan's conflicted copy 2020-04-20)/EF/EF_HanoverCollege/EF_HanoverCollege_Search_2020/EF_HanoverCollege_SearchLP+TYP/EF_Hanover_LP+TYP_desktop_2020_825_Folder/Links/hanover-horizontal-white.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 4656K, 2000 by 596 pixels
+Dimensions: 131.2 by 39.098 points 
+Resolution: 1097.561 by 1097.561 pixels per inch
+
+
+/Users/gretchenlong/Dropbox/A. INPROCESS (macbook-pro.lan's conflicted copy 2020-04-20)/EF/EF_HanoverCollege/EF_HanoverCollege_Search_2020/EF_HanoverCollege_SearchLP+TYP/EF_Hanover_LP+TYP_desktop_2020_825_Folder/Links/hanover-horizontal_PREFERRED.eps
+Type: EPS
+
+/Users/gretchenlong/Dropbox/A. INPROCESS (macbook-pro.lan's conflicted copy 2020-04-20)/EF/EF_HanoverCollege/EF_HanoverCollege_Search_2020/EF_HanoverCollege_SearchLP+TYP/EF_Hanover_LP+TYP_desktop_2020_825_Folder/Links/hanover-horizontal-white.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 4656K, 2000 by 596 pixels
+Dimensions: 131.2 by 39.098 points 
+Resolution: 1097.561 by 1097.561 pixels per inch
+
+
+/Users/gretchenlong/Dropbox/A. INPROCESS (macbook-pro.lan's conflicted copy 2020-04-20)/EF/EF_HanoverCollege/EF_HanoverCollege_Search_2020/EF_HanoverCollege_SearchLP+TYP/EF_Hanover_LP+TYP_desktop_2020_825_Folder/Links/hanover-horizontal_PREFERRED.eps
+Type: EPS
+
+/Users/gretchenlong/Dropbox/A. INPROCESS (macbook-pro.lan's conflicted copy 2020-04-20)/EF/EF_HanoverCollege/EF_HanoverCollege_Search_2020/EF_HanoverCollege_SearchLP+TYP/EF_Hanover_LP+TYP_desktop_2020_825_Folder/Links/hanover-horizontal-white.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 4656K, 2000 by 596 pixels
+Dimensions: 131.2 by 39.098 points 
+Resolution: 1097.561 by 1097.561 pixels per inch
+
+
+/Users/gretchenlong/Dropbox/A. INPROCESS (macbook-pro.lan's conflicted copy 2020-04-20)/EF/EF_HanoverCollege/EF_HanoverCollege_Search_2020/EF_HanoverCollege_SearchLP+TYP/EF_Hanover_LP+TYP_desktop_2020_825_Folder/Links/Signature_Rachel.jpg
+Type: Grayscale
+Bits per Pixel: 8
+Channels: 1
+Size: 375K, 1204 by 319 pixels
+Dimensions: 256.413 by 79 points 
+Resolution: 338.079 by 290.734 pixels per inch
+
+
+/Users/gretchenlong/Dropbox/A. INPROCESS (macbook-pro.lan's conflicted copy 2020-04-20)/EF/EF_HanoverCollege/EF_HanoverCollege_Search_2020/EF_HanoverCollege_SearchLP+TYP/EF_Hanover_LP+TYP_desktop_2020_825_Folder/Links/hanover-horizontal_PREFERRED.eps
+Type: EPS
+
+/Users/gretchenlong/Dropbox/A. INPROCESS (macbook-pro.lan's conflicted copy 2020-04-20)/EF/EF_HanoverCollege/EF_HanoverCollege_Search_2020/EF_HanoverCollege_SearchLP+TYP/EF_Hanover_LP+TYP_desktop_2020_825_Folder/Links/2018-9-HanoverCollege061.JPG
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 7822K, 2000 by 1335 pixels
+Dimensions: 480.012 by 320.408 points 
+Resolution: 299.993 by 299.993 pixels per inch
+
+
+/Users/gretchenlong/Dropbox/A. INPROCESS (macbook-pro.lan's conflicted copy 2020-04-20)/EF/EF_HanoverCollege/EF_HanoverCollege_Search_2020/EF_HanoverCollege_SearchLP+TYP/EF_Hanover_LP+TYP_desktop_2020_825_Folder/Links/fall_aerial.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 8484K, 2000 by 1448 pixels
+Dimensions: 479.988 by 347.511 points 
+Resolution: 300.007 by 300.007 pixels per inch
+
+
+/Users/gretchenlong/Dropbox/A. INPROCESS (macbook-pro.lan's conflicted copy 2020-04-20)/EF/EF_HanoverCollege/EF_HanoverCollege_Search_2020/EF_HanoverCollege_SearchLP+TYP/EF_Hanover_LP+TYP_desktop_2020_825_Folder/Links/fall_aerial.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 8484K, 2000 by 1448 pixels
+Dimensions: 479.988 by 347.511 points 
+Resolution: 300.007 by 300.007 pixels per inch

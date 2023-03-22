@@ -1,0 +1,124 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: EF_Hanover_SearchEmails2021_JR_11-11.ai
+Color Mode: RGB color
+Color Profile: sRGB IEC61966-2.1
+Ruler Units: pixels
+Artboard Dimensions: 600 px x 1628.9597 px
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Avenir Light (TrueType)
+Avenir Black (TrueType)
+Avenir Heavy (TrueType)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+/Users/gretchenlong/Dropbox/A. INPROCESS (macbook-pro.lan's conflicted copy 2020-04-20) (macbook-pro.lan's conflicted copy 2020-10-09) (macbook-pro.lan's conflicted copy 2021-04-16)/EF/EF_HanoverCollege/EF_Hanover_Search_2021/search emails/EF_Hanover_SearchEmails2021_PNC_11-4/Links/hanover-horizontal-white.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 4656K, 2000 by 596 pixels
+Dimensions: 200 by 59.6 points 
+Resolution: 720 by 720 pixels per inch
+
+
+/Users/gretchenlong/Dropbox/A. INPROCESS (macbook-pro.lan's conflicted copy 2020-04-20) (macbook-pro.lan's conflicted copy 2020-10-09) (macbook-pro.lan's conflicted copy 2021-04-16)/EF/EF_HanoverCollege/EF_Hanover_Search_2021/search emails/EF_Hanover_SearchEmails2021_PNC_11-4/Links/hanover-horizontal-white.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 4656K, 2000 by 596 pixels
+Dimensions: 200 by 59.6 points 
+Resolution: 720 by 720 pixels per inch
+
+
+/Users/gretchenlong/Dropbox/A. INPROCESS (macbook-pro.lan's conflicted copy 2020-04-20) (macbook-pro.lan's conflicted copy 2020-10-09) (macbook-pro.lan's conflicted copy 2021-04-16)/EF/EF_HanoverCollege/EF_Hanover_Search_2021/search emails/EF_Hanover_SearchEmails2021_PNC_11-4/Links/2020-6-24- HanoverCollegeBeauty036.JPG
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 17604K, 3000 by 2003 pixels
+Dimensions: 615.954 by 411.252 points 
+Resolution: 350.675 by 350.675 pixels per inch
+
+
+/Users/gretchenlong/Dropbox/A. INPROCESS (macbook-pro.lan's conflicted copy 2020-04-20) (macbook-pro.lan's conflicted copy 2020-10-09) (macbook-pro.lan's conflicted copy 2021-04-16)/EF/EF_HanoverCollege/EF_Hanover_Search_2021/search emails/EF_Hanover_SearchEmails2021_PNC_11-4/Links/hanover-horizontal_PREFERRED.eps
+Type: EPS
+
+/Users/gretchenlong/Dropbox/A. INPROCESS (macbook-pro.lan's conflicted copy 2020-04-20) (macbook-pro.lan's conflicted copy 2020-10-09) (macbook-pro.lan's conflicted copy 2021-04-16)/EF/EF_HanoverCollege/EF_Hanover_Search_2021/search emails/EF_Hanover_SearchEmails2021_PNC_11-4/Links/2018-9-HanoverCollege116.JPG
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 7822K, 2000 by 1335 pixels
+Dimensions: 657.508 by 438.887 points 
+Resolution: 219.009 by 219.009 pixels per inch
+
+
+/Users/gretchenlong/Dropbox/A. INPROCESS (macbook-pro.lan's conflicted copy 2020-04-20) (macbook-pro.lan's conflicted copy 2020-10-09) (macbook-pro.lan's conflicted copy 2021-04-16)/EF/EF_HanoverCollege/EF_Hanover_Search_2021/search emails/EF_Hanover_SearchEmails2021_PNC_11-4/Links/A___8061.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 7810K, 2000 by 1333 pixels
+Dimensions: 700.054 by 466.586 points 
+Resolution: 205.698 by 205.698 pixels per inch
+
+
+/Users/gretchenlong/Dropbox/A. INPROCESS (macbook-pro.lan's conflicted copy 2020-04-20) (macbook-pro.lan's conflicted copy 2020-10-09) (macbook-pro.lan's conflicted copy 2021-04-16)/EF/EF_HanoverCollege/EF_Hanover_Search_2021/search emails/EF_Hanover_SearchEmails2021_PNC_11-4/Links/hanover-horizontal_PREFERRED.eps
+Type: EPS
+
+/Users/gretchenlong/Dropbox/A. INPROCESS (macbook-pro.lan's conflicted copy 2020-04-20) (macbook-pro.lan's conflicted copy 2020-10-09) (macbook-pro.lan's conflicted copy 2021-04-16)/EF/EF_HanoverCollege/EF_Hanover_Search_2021/search emails/EF_Hanover_SearchEmails2021_PNC_11-4/Links/fall-hdr-hero.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 7353K, 2000 by 1255 pixels
+Dimensions: 600 by 376.5 points 
+Resolution: 240 by 240 pixels per inch
+
+
+/Users/gretchenlong/Dropbox/A. INPROCESS (macbook-pro.lan's conflicted copy 2020-04-20) (macbook-pro.lan's conflicted copy 2020-10-09) (macbook-pro.lan's conflicted copy 2021-04-16)/EF/EF_HanoverCollege/EF_Hanover_Search_2021/search emails/EF_Hanover_SearchEmails2021_PNC_11-4/Links/hanover-horizontal-white.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 4656K, 2000 by 596 pixels
+Dimensions: 200 by 59.6 points 
+Resolution: 720 by 720 pixels per inch
+
+
+/Users/gretchenlong/Dropbox/A. INPROCESS (macbook-pro.lan's conflicted copy 2020-04-20) (macbook-pro.lan's conflicted copy 2020-10-09) (macbook-pro.lan's conflicted copy 2021-04-16)/EF/EF_HanoverCollege/EF_Hanover_Search_2021/search emails/EF_Hanover_SearchEmails2021_PNC_11-4/Links/hanover-horizontal-white.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 4656K, 2000 by 596 pixels
+Dimensions: 200 by 59.6 points 
+Resolution: 720 by 720 pixels per inch
+
+
+/Users/gretchenlong/Dropbox/A. INPROCESS (macbook-pro.lan's conflicted copy 2020-04-20) (macbook-pro.lan's conflicted copy 2020-10-09) (macbook-pro.lan's conflicted copy 2021-04-16)/EF/EF_HanoverCollege/EF_Hanover_Search_2021/search emails/EF_Hanover_SearchEmails2021_PNC_11-4/Links/hanover-horizontal_PREFERRED.eps
+Type: EPS
+
+/Users/gretchenlong/Dropbox/A. INPROCESS (macbook-pro.lan's conflicted copy 2020-04-20) (macbook-pro.lan's conflicted copy 2020-10-09) (macbook-pro.lan's conflicted copy 2021-04-16)/EF/EF_HanoverCollege/EF_Hanover_Search_2021/search emails/EF_Hanover_SearchEmails2021_PNC_11-4/Links/hanover-horizontal_PREFERRED.eps
+Type: EPS

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <title>Hanover College | You belong</title>
+    <script>
+      if ('##submitaction##' === 'apply') {
+        window.location = 'https://explore.hanover.edu/apply?utm_source=Senior&utm_medium=Microsite&utm_campaign=FUEL';
+      }
+    </script>
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="https://www.hanover.edu/favicon-32x32.png" />
+    <link rel="apple-touch-icon" href="https://www.hanover.edu/favicon-32x32.png" />
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" />
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;400;600;700&display=swap" rel="stylesheet" />
+    <!-- Main css file -->
+    <link rel="stylesheet" href="/css/index.min.css" />
+    <!-- Custom scripts -->
+    <script type="text/javascript">
+      var devMode = false;
+      var ffr_a;
+      var ffr_b;
+      var phone = '##phone##';
+
+      if (devMode) {
+        ffr_a = ['dev is turned on'];
+      } else {
+        ffr_a = ['##FormFieldResponse  FormInputName="checkbox_1"  ProgramId="1" CampaignId="1" InboundId="1" InboundDetailId="4" ##', '##FormFieldResponse  FormInputName="checkbox_2"  ProgramId="1" CampaignId="1" InboundId="1" InboundDetailId="4" ##', '##FormFieldResponse  FormInputName="checkbox_3"  ProgramId="1" CampaignId="1" InboundId="1" InboundDetailId="4" ##', '##FormFieldResponse  FormInputName="checkbox_4"  ProgramId="1" CampaignId="1" InboundId="1" InboundDetailId="4" ##', '##FormFieldResponse  FormInputName="checkbox_5"  ProgramId="1" CampaignId="1" InboundId="1" InboundDetailId="4" ##', '##FormFieldResponse  FormInputName="checkbox_6"  ProgramId="1" CampaignId="1" InboundId="1" InboundDetailId="4" ##', '##FormFieldResponse  FormInputName="checkbox_7"  ProgramId="1" CampaignId="1" InboundId="1" InboundDetailId="4" ##', '##FormFieldResponse  FormInputName="checkbox_8"  ProgramId="1" CampaignId="1" InboundId="1" InboundDetailId="4" ##'];
+      }
+
+      ffr_b = ['##checkbox_1##', '##checkbox_2##', '##checkbox_3##', '##checkbox_4##', '##checkbox_5##', '##checkbox_6##', '##checkbox_7##', '##checkbox_8##'];
+    </script>
+  </head>
+
+  <body>
+    <!-- Start your project here-->
+    <div class="container-fluid thanks">
+      <header>
+        <img src="https://s3.amazonaws.com/rsrc.hanover/img/hanover-horizontal-white.png" alt="Hanover College">
+      </header>
+
+      <main>
+        <section class="content">
+          <p style="margin: 30px 0px;">We are so happy you want to know more about YOUR place to belong&mdash;Hanover College!</p>
+          <div class="greeting">Hi, ##prefname##!</div>
+          <p>Thank you for letting us know more about your expectations.<br/>We noted the following things are important to you.</p>
+
+          <div class="interests">
+            <ul></ul>
+          </div>
+
+          <p class="mt-5">
+            Your next step is to <a class="hc-bold-underline" href="https://explore.hanover.edu/apply?utm_source=Senior&utm_medium=Microsite&utm_campaign=FUEL">Apply Today!</a><br/>
+            <img width="400" src="https://s3.amazonaws.com/rsrc.hanover/img/Signature_Rachel.jpg" alt="Rachel Schmidtke" style="max-width: 400px; width: 70%; margin: auto;"><br/>
+            Rachel Schmidtke<br/>
+            <i>Associate Vice President of Admission</i>
+          </p>
+
+          <div id="links" class="row mt-4 mb-4">
+            <div class="col-6">
+              <a href="https://explore.hanover.edu/apply?utm_source=Senior&utm_medium=Microsite&utm_campaign=FUEL" target="_blank" class="btn btn-lg btn-primary">Apply</a>
+            </div>
+            <div class="col-6">
+              <a href="https://www.hanover.edu/admission/visits?utm_source=Senior&utm_medium=Microsite&utm_campaign=FUEL" target="_blank" class="btn btn-lg btn-primary">Visit Campus</a>
+            </div>
+            <div class="col-6">
+              <a href="https://www.hanover.edu/admission/financialaid?utm_source=Senior&utm_medium=Microsite&utm_campaign=FUEL" target="_blank" class="btn btn-lg btn-primary">Financial Aid</a>
+            </div>
+            <div class="col-6">
+              <a href="https://www.hanover.edu/academics/programs?utm_source=Senior&utm_medium=Microsite&utm_campaign=FUEL" target="_blank" class="btn btn-lg btn-primary">Majors</a>
+            </div>
+            <div class="col-6">
+              <a href="https://athletics.hanover.edu/landing/index?utm_source=Senior&utm_medium=Microsite&utm_campaign=FUEL" target="_blank" class="btn btn-lg btn-primary">Athletics</a>
+            </div>
+            <div class="col-6">
+              <a href="https://www.hanover.edu/campus?utm_source=Senior&utm_medium=Microsite&utm_campaign=FUEL" target="_blank" class="btn btn-lg btn-primary">Campus Life</a>
+            </div>
+          </div>
+
+          <p>If you would like to speak with one of our counselors about what Hanover has to offer, please submit your phone number here, and we'll call you soon!</p>
+
+          <form method="post">
+            <div class="d-flex justify-content-center align-items-center">
+              <div class="form-outline">
+                <input type="text" name="phone" value="##phone##" id="formControlLg" class="form-control form-control-lg" placeholder="123-456-7890" required />
+                <label class="form-label" for="formControlLg">phone</label>
+              </div>
+              <div class="phone check-false ml-3">
+                <input type="submit" class="btn btn-lg btn-outline-dark" value="submit" />
+              </div>
+              <div class="phone check-true" style="display: none;">
+                <i class="fas fa-check-circle"></i>&nbsp;&nbsp;
+                <span>Thank you for submitting your number. We’ll be in touch soon!</span>
+              </div>
+            </div>
+          </form>
+        </section>
+      </main>
+
+      <div>
+        <img class="p-0" style="width: 100%;" src="https://s3.amazonaws.com/rsrc.hanover/img/2018-9-HanoverCollege061.JPG" alt="3 Hanover College students conversing outside">
+      </div>
+
+      <footer>
+        <img src="https://s3.amazonaws.com/rsrc.hanover/img/hanover-horizontal_PREFERRED.svg" alt="">
+        <span class="d-inline-block">Office of Admission &bull; 517 Ball Drive &bull; Hanover, IN 47243 &bull; 800.213.2178</span>
+      </footer>
+    </div>
+    <!-- End your project here-->
+  </body>
+
+  <!-- Main js file -->
+  <script type="text/javascript" src="/js/index.min.js" defer></script>
+
+</html>

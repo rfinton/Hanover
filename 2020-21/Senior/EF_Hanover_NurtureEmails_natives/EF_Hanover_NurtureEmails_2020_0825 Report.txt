@@ -1,0 +1,104 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: EF_Hanover_NurtureEmails_2020_0825.ai
+Color Mode: RGB color
+Color Profile: sRGB IEC61966-2.1
+Ruler Units: pixels
+Artboard Dimensions: 600 px x 1574 px
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:
+Montserrat SemiBold (Adobe Fonts)
+
+-----------------------------------------------------------------------------
+Fonts:
+Avenir Light (TrueType)
+Avenir Light Oblique (TrueType)
+Avenir Roman (TrueType)
+Avenir Book Oblique (TrueType)
+Avenir Black (TrueType)
+Avenir Heavy (TrueType)
+Myriad Pro (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+/Users/gretchenlong/Dropbox/A. INPROCESS (macbook-pro.lan's conflicted copy 2020-04-20)/EF/EF_HanoverCollege/EF_HanoverCollege_Search_2020/EF_HanoverCollege_Search_NurtureEmails/EF_Hanover_NurtureEmails_2020_825_Folder/Links/2019-5-DugganLibraryLJG001.JPG
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 68681K, 5926 by 3956 pixels
+Dimensions: 600 by 400.54 points 
+Resolution: 711.12 by 711.12 pixels per inch
+
+
+/Users/gretchenlong/Dropbox/A. INPROCESS (macbook-pro.lan's conflicted copy 2020-04-20)/EF/EF_HanoverCollege/EF_HanoverCollege_Search_2020/EF_HanoverCollege_Search_NurtureEmails/EF_Hanover_NurtureEmails_2020_825_Folder/Links/hanover-horizontal_PREFERRED.eps
+Type: EPS
+
+/Users/gretchenlong/Dropbox/A. INPROCESS (macbook-pro.lan's conflicted copy 2020-04-20)/EF/EF_HanoverCollege/EF_HanoverCollege_Search_2020/EF_HanoverCollege_Search_NurtureEmails/EF_Hanover_NurtureEmails_2020_825_Folder/Links/hanover-horizontal-white.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 4656K, 2000 by 596 pixels
+Dimensions: 200 by 59.6 points 
+Resolution: 720 by 720 pixels per inch
+
+
+/Users/gretchenlong/Dropbox/A. INPROCESS (macbook-pro.lan's conflicted copy 2020-04-20)/EF/EF_HanoverCollege/EF_HanoverCollege_Search_2020/EF_HanoverCollege_Search_NurtureEmails/EF_Hanover_NurtureEmails_2020_825_Folder/Links/hanover-horizontal-white.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 4656K, 2000 by 596 pixels
+Dimensions: 200 by 59.6 points 
+Resolution: 720 by 720 pixels per inch
+
+
+/Users/gretchenlong/Dropbox/A. INPROCESS (macbook-pro.lan's conflicted copy 2020-04-20)/EF/EF_HanoverCollege/EF_HanoverCollege_Search_2020/EF_HanoverCollege_Search_NurtureEmails/EF_Hanover_NurtureEmails_2020_825_Folder/Links/hanover-horizontal_PREFERRED.eps
+Type: EPS
+
+/Users/gretchenlong/Dropbox/A. INPROCESS (macbook-pro.lan's conflicted copy 2020-04-20)/EF/EF_HanoverCollege/EF_HanoverCollege_Search_2020/EF_HanoverCollege_Search_NurtureEmails/EF_Hanover_NurtureEmails_2020_825_Folder/Links/2018-9-HanoverCollege062.JPG
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 70782K, 6016 by 4016 pixels
+Dimensions: 641.147 by 428 points 
+Resolution: 675.589 by 675.589 pixels per inch
+
+
+/Users/gretchenlong/Dropbox/A. INPROCESS (macbook-pro.lan's conflicted copy 2020-04-20)/EF/EF_HanoverCollege/EF_HanoverCollege_Search_2020/EF_HanoverCollege_Search_NurtureEmails/EF_Hanover_NurtureEmails_2020_825_Folder/Links/Signature_Rachel.jpg
+Type: Grayscale
+Bits per Pixel: 8
+Channels: 1
+Size: 375K, 1204 by 319 pixels
+Dimensions: 293.044 by 93.815 points 
+Resolution: 295.819 by 244.823 pixels per inch
+
+
+/Users/gretchenlong/Dropbox/A. INPROCESS (macbook-pro.lan's conflicted copy 2020-04-20)/EF/EF_HanoverCollege/EF_HanoverCollege_Search_2020/EF_HanoverCollege_Search_NurtureEmails/EF_Hanover_NurtureEmails_2020_825_Folder/Links/Signature_Rachel.jpg
+Type: Grayscale
+Bits per Pixel: 8
+Channels: 1
+Size: 375K, 1204 by 319 pixels
+Dimensions: 293.044 by 93.815 points 
+Resolution: 295.819 by 244.823 pixels per inch

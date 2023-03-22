@@ -1,0 +1,40 @@
+{
+  "name": "materialdesign",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack serve --open 'Google Chrome'",
+    "build": "webpack --mode production",
+    "postbuild": "npm run repair && npm run inject && npm run push",
+    "repair": "cd dist/ && sed 's_bundle_https://s3.amazonaws.com/rsrc.hanover/2021-22/bundle_g' index.html >> foo.html && rm index.html",
+    "inject": "cd dist/ && sed 's_defer=\"defer\"_defer=\"defer\" id=\"purl\" data-purl=\"##purl##\"_g' foo.html >> index.html && rm foo.html",
+    "push": "cd dist/ && aws s3 sync . s3://rsrc.hanover/2021-22/ --profile enrollmentfuel"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/preset-env": "^7.15.0",
+    "autoprefixer": "^10.3.1",
+    "babel-loader": "^8.2.2",
+    "css-loader": "^6.2.0",
+    "extract-loader": "^5.1.0",
+    "file-loader": "^6.2.0",
+    "html-webpack-plugin": "^5.3.2",
+    "postcss-loader": "^6.1.1",
+    "sass": "^1.37.5",
+    "sass-loader": "^12.1.0",
+    "webpack": "^5.50.0",
+    "webpack-cli": "^4.7.2",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "dependencies": {
+    "@material/button": "^12.0.0",
+    "@material/ripple": "^12.0.0",
+    "gsap": "^3.7.1",
+    "normalize.css": "^8.0.1"
+  }
+}

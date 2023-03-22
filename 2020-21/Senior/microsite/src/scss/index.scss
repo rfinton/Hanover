@@ -1,0 +1,323 @@
+@import '~mdb-ui-kit/css/mdb.min.css';
+
+$hc_red: #990000;
+$hc_dark_blue_bg: #8bb0c6;
+$hc_light_blue_bg: #e8e8e8;
+$hc_darkblue: #0b486d;
+$nunito: 'Nunito Sans', sans-serif;
+
+body {
+  font-family: $nunito;
+  background-color: gray;
+
+  @media screen and (max-width: 420px) {
+    font-size: 1em;
+  }
+
+  .container-fluid {
+    min-height: 100vh;
+    background-color: #fff;
+    padding-left: 0px;
+    padding-right: 0px;
+    background-image: url('https://s3.amazonaws.com/rsrc.hanover/img/fall-hdr-hero.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    font-size: 1.5em;
+
+    header {
+      background-color: $hc_red;
+      padding: 30px 15px;
+      text-align: center;
+  
+      img {
+        width: 70%;
+        max-width: 700px;
+      }
+    }
+  
+    main {
+      padding: 30px 12% 60px;
+      background-image: linear-gradient(0deg, rgba(255, 255, 255, 0.3) 80%, $hc_dark_blue_bg);
+
+      @media screen and (max-width: 780px) {
+        padding: 30px 3% 0px;
+      }
+  
+      .content {
+        text-align: center;
+        color: $hc_darkblue;
+        font-weight: 100;
+  
+        .greeting {
+          color: $hc_red;
+          font-weight: bold;
+          font-size: 120%;
+          margin-bottom: 15px;
+        }
+      }
+  
+      form {
+        .choices {
+          width: 95%;
+          max-width: 870px;
+          margin: auto;
+          border: solid 5px $hc_darkblue;
+          border-radius: 6px;
+    
+          .choice {
+            font-size: 80%;
+            height: 10em;
+            position: relative;
+            overflow: hidden;
+    
+            @media screen and (max-width: 420px) {
+              font-size: 12pt;
+              height: 15em;
+              line-height: 1.3;
+            }
+    
+            label {
+              cursor: pointer;
+              border-bottom: solid 1px #fff;
+              position: absolute;
+              width: 100%;
+              box-shadow: 0px 0px 30px #555;
+              
+              div {
+                color: $hc_darkblue;
+                height: 10em;
+                padding: 15px 30px;
+    
+                @media screen and (max-width: 420px) {
+                  padding: 0px 20px 0px 10px;
+                  height: 15em;
+                }
+      
+                div {
+                  height: 100%;
+                  display: flex;
+                  justify-content: center;
+                  align-items: center;
+                  text-align: center;
+
+                  p {
+                    margin: 0px;
+                    width: 100%;
+                    
+                    span {
+                      white-space: nowrap;
+
+                      @media screen and (max-width: 420px) {
+                        white-space: normal;
+                      }
+                    }
+                  }
+                }
+    
+                div.col-4 {
+                  background-size: contain;
+                  background-repeat: no-repeat;
+                  background-position: center;
+                }
+              }
+            }
+          }
+    
+          .choice.odd label {
+            background-color: $hc_dark_blue_bg;
+            &:first-of-type {
+              background-color: #8bc68d;
+            }
+          }
+    
+          .choice.even label {
+            background-color: $hc_light_blue_bg;
+            &:first-of-type {
+              background-color: #8bc68d;
+            }
+          }
+    
+          #academics label:first-of-type .col-4 {
+            background-image: url('https://s3.amazonaws.com/rsrc.hanover/img/academics-icon.svg');
+          }
+    
+          #academics label:last-of-type .col-4 {
+            background-image: url('https://s3.amazonaws.com/rsrc.hanover/img/academics.png');
+          }
+    
+          #internship label:first-of-type .col-4 {
+            background-image: url('https://s3.amazonaws.com/rsrc.hanover/img/internship-icon.svg');
+          }
+    
+          #internship label:last-of-type .col-4 {
+            background-image: url('https://s3.amazonaws.com/rsrc.hanover/img/internship.png');
+          }
+    
+          #financial-aid label:first-of-type .col-4 {
+            background-image: url('https://s3.amazonaws.com/rsrc.hanover/img/financial-icon.svg');
+          }
+    
+          #financial-aid label:last-of-type .col-4 {
+            background-image: url('https://s3.amazonaws.com/rsrc.hanover/img/financial.png');
+          }
+    
+          #athletics label:first-of-type .col-4 {
+            background-image: url('https://s3.amazonaws.com/rsrc.hanover/img/athletics-icon.svg');
+          }
+    
+          #athletics label:last-of-type .col-4 {
+            background-image: url('https://s3.amazonaws.com/rsrc.hanover/img/athletics.png');
+          }
+    
+          #clubs label:first-of-type .col-4 {
+            background-image: url('https://s3.amazonaws.com/rsrc.hanover/img/clubs-icon.svg');
+          }
+    
+          #clubs label:last-of-type .col-4 {
+            background-image: url('https://s3.amazonaws.com/rsrc.hanover/img/clubs.png');
+          }
+    
+          #location label:first-of-type .col-4 {
+            background-image: url('https://s3.amazonaws.com/rsrc.hanover/img/location-icon.svg');
+          }
+    
+          #location label:last-of-type .col-4 {
+            background-image: url('https://s3.amazonaws.com/rsrc.hanover/img/location.png');
+          }
+    
+          #faculty label:first-of-type .col-4 {
+            background-image: url('https://s3.amazonaws.com/rsrc.hanover/img/faculty-icon.svg');
+          }
+    
+          #faculty label:last-of-type .col-4 {
+            background-image: url('https://s3.amazonaws.com/rsrc.hanover/img/faculty.png');
+          }
+
+          #career label:first-of-type .col-4 {
+            background-image: url('https://s3.amazonaws.com/rsrc.hanover/img/career-icon.svg');
+          }
+    
+          #career label:last-of-type .col-4 {
+            background-image: url('https://s3.amazonaws.com/rsrc.hanover/img/career.png');
+          }
+        }
+  
+        section {
+          padding-top: 30px;
+  
+          .btn-lg {
+            min-width: 300px;
+            margin: 0px 0px 30px 0px;
+            font-weight: bold;
+            font-size: 70%;
+            border: solid 1px #fff;
+            border-radius: 24px;
+            padding-top: 18px;
+            padding-bottom: 18px;
+  
+            &:first-of-type {
+              background-color: $hc_darkblue;
+            }
+  
+            &:last-of-type {
+              background-color: $hc_dark_blue_bg;
+              color: $hc_darkblue;
+            }
+          }
+        }
+      }
+    }
+
+    footer {
+      font-size: 60%;
+      color: $hc_red;
+      text-align: center;
+      background-color: $hc_light_blue_bg;
+      padding: 30px 15px;
+
+      @media screen and (max-width: 420px) {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      img {
+        width: 30%;
+
+        @media screen and (max-width: 420px) {
+          width: 70%;
+        }
+      }
+    }
+  }
+
+  .container-fluid.thanks {
+    background-image: none;
+    font-size: 1.7em;
+
+    .hc-bold-underline {
+      color: $hc_darkblue;
+      text-decoration: underline;
+      font-weight: bold;
+    }
+
+    main {
+      
+      ul {
+        list-style-type: none;
+        margin: 30px 0px;
+        padding: 0px;
+        background-color: $hc_light_blue_bg;
+        padding-bottom: 15px;
+        width: 70%;
+        margin: auto;
+  
+        li {
+          padding: 15px 0px 0px;
+        }
+      }
+
+      #links {
+        max-width: 780px;
+        margin: auto;
+
+        .col-6 {
+          margin: 8px 0px;
+    
+          a {
+            width: 100%;
+            padding: 1.5rem 1.6875rem;
+            background-color: $hc_darkblue;
+          }
+        }
+      }
+  
+      form {
+        font-size: 1rem;
+
+        &>div {
+          @media screen and (max-width: 420px) {
+            flex-direction: column;
+          }
+        }
+
+        .phone.check-true {
+          display: flex;
+          align-items: center;
+          margin-left: 12px;
+
+          @media screen and (max-width: 420px) {
+            margin-top: 12px;
+            text-align: left;
+          }
+        }
+
+        .fas {
+          font-size: 2rem;
+        }
+      }
+    }
+  }
+}
+
